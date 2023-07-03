@@ -20,7 +20,7 @@ File Explorer is a simple Ruby application built using the FxRuby library. It pr
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/file-explorer.git
+git clone https://github.com/lopekinz/file-explorer.git
 ```
 
 2. Install the required gem:
